@@ -4,6 +4,10 @@ Archiving hrt.cafe in case if something goes wrong.
 :wave: Hello! Welcome to the archive of hrt.cafe if they never come back up.
 
 # Accessing this archive
+## Through Github
+https://ishouldtestmycode.github.io/hrt-cafe-archive/
+
+## Locally
 To access this archive, download the entire repo as a zip, then unzip it and open index.html.
 
 # Accessing the origional site
