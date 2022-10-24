@@ -290,48 +290,8 @@ table th {
 
 </style>
 
-<div class="container">
-    <form id="contact-form" name="contact-form" action="https://5.100.155.93/contact/request/" method="post">
-        <table id="contact-table">
-            <tr>
-            	<th>Name</th>
-            	<td><input type="text" class="contact-regular" id="contact-name" name="contact_name" placeholder="Name" maxlength="254" required autocomplete="off"></td>
-            </tr>
-            <tr>
-            	<th>Email</th>
-            	<td><input type="text" class="contact-regular" id="contact-email" name="contact_email" placeholder="Email" maxlength="254" required autocomplete="off"></td>
-            </tr>
-            <tr>
-            	<th>Subject</th>
-            	<td><input type="text" class="contact-regular" id="contact-subject" name="contact_subject" placeholder="Subject" maxlength="254" required autocomplete="off"></td>
-            </tr>
-            <tr>
-            	<th>Comment</th>
-            	<td><textarea class="contact-large" id="contact-comment" name="contact_comment" placeholder="Comment" maxlength="6000" required autocomplete="off"></textarea></td>
-            </tr>
-            <tr class="somebody">
-            	<th>Body</th>
-            	<td><textarea class="contact-large" id="contact-body" name="contact_body" placeholder="Body" maxlength="6000" autocomplete="off"></textarea></td>
-            </tr>
-            <tr>
-            	<th>Verification</th>
-            	<td>
 
-                    <span id="captcha" style="background:url('data:image/jpeg;base64,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');"></span><a href="index.html#" id="captcha-refresh"><span data-toggle="tooltip" class="tooltips icon-fa4-refresh" title="Refresh"></span></a><br>
-            	    <input type="text" id="captcha-input" placeholder="Verification" name="captcha_input" class="form-control contact-tiny" maxlength="5" required autocomplete="off">
-                    <span class="icon-fa5-spinner rotating" id="loading-img"></span>
-                    <button type="submit" class="btn btn-primary" name="submit-button" value="Submit" id="submit-button">Submit</button>
-            	</td>
-            </tr>
-            <tr>
-                <th></th><td><div id="ajax-message"></div></td>
-            </tr>
-        </table>
-    </form>
-</div>
-
-
-<br>If you wish to use a <a class="internal underline" href="../pgp/index.html">PGP <span class="icon-fa5-key font90"></span></a> key for encryption, please include your public key.</div></div>		</div>
+<br>To contact the maintainer of this archive, create an issue <a class="internal underline" href="https://github.com/IShouldTestMyCode/hrt-cafe-archive/issues">here. <span class="icon-fa5-key font90"></span></a> If you would rather use email, send me an email to anonymous-user87349@protonmail.ch and if you prefer to use PGP, you can find it on the MIT keyserver.</div></div>		</div>
 
 		<div class="footer">
 	<p class="small">Prices and exchange rates are for informational purposes only.
