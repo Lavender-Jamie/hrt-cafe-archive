@@ -10,11 +10,12 @@ Archiving hrt.cafe in case if something goes wrong.
 :wave: Hello! Welcome to the archive of hrt.cafe if they never come back up.
 
 ## Accessing this archive
-### Through Github
+### Through Github, no download required.
 https://ishouldtestmycode.github.io/hrt-cafe-archive/
 
 ### Locally
 To access this archive, use this link and it will start a download: 
+
 https://github.com/IShouldTestMyCode/hrt-cafe-archive/zipball/master/
 
 ### Contact me
