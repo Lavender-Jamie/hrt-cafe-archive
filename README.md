@@ -11,7 +11,7 @@ Archiving hrt.cafe in case if something goes wrong.
 
 ## Accessing this archive
 ### Through Github, no download required.
-https://ishouldtestmycode.github.io/hrt-cafe-archive/
+https://diyhrt.cafe/
 
 ### Locally
 To access this archive, use this link and it will start a download: 
