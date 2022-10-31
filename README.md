@@ -11,9 +11,9 @@ Download link: https://github.com/IShouldTestMyCode/hrt-cafe-archive/zipball/mas
 If you or someone you know understands how to work HTML/CSS, let me know! I really need some maintainers for this project. Everyone is welcome! Start an issue and I will look into it!
 
 ### What is this?
-Archiving hrt.cafe in case if something goes wrong.
+Archiving hrt.cafe ~~in case if something goes wrong.~~ so it still exists after it went wrong.
 
-:wave: Hello! Welcome to the archive of hrt.cafe if they never come back up.
+:wave: Hello! Welcome to the archive of hrt.cafe ~~if~~ As they never ~~come~~ came back up.
 
 ## Accessing this archive
 ### Through Github, no download required.
