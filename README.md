@@ -49,6 +49,9 @@ If you would like to contact me, [create an issue](https://docs.github.com/en/is
 
 If you prefer to use PGP, you can find my key on the [MIT Keyserver](https://pgp.mit.edu)
 
+## Things I/We are working on right now
+I am thinking of moving to MediaWiki while keeping the current look and feel of the site. I think it would make it easier to work with and easier to edit, and it would be editable by everyone.
+
 ## License
 #### For all contributions made past the initial commit:
 I, the author, hereby agree to waive all claim of copyright (economic and moral) in all content contributed by me, the user, and immediately place any and all contributions by me, in this repository, into the public domain, unless otherwise noted.
