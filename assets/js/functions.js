@@ -1,3 +1,17 @@
+    (function () {
+        window.usermaven = window.usermaven || (function () { (window.usermavenQ = window.usermavenQ || []).push(arguments); })
+        var t = document.createElement('script'),
+            s = document.getElementsByTagName('script')[0];
+        t.defer = true;
+        t.id = 'um-tracker';
+        t.setAttribute('data-tracking-host', "https://events.usermaven.com")
+        t.setAttribute('data-key', 'UMasej1QCa');
+        t.setAttribute('data-autocapture', 'true'); 
+        t.setAttribute('data-privacy-policy', 'strict'); 
+        t.src = 'https://t.usermaven.com/lib.js';
+        s.parentNode.insertBefore(t, s);
+    })();
+
 _anyNumberSort = function(a, b, high) {
     var reg = /[+-]?((\d+(\.\d*)?)|\.\d+)([eE][+-]?[0-9]+)?/;       
     a = a.replace(',','.').match(reg);
